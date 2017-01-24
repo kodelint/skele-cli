@@ -37,9 +37,9 @@ setup(
     version = __version__,
     description = 'A skeleton command line program in Python.',
     long_description = long_description,
-    url = 'https://github.com/rdegges/skele-cli',
-    author = 'Randall Degges',
-    author_email = 'r@rdegges.com',
+    url = 'https://github.com/kodelint/skele-cli.git',
+    author = 'Satyajit Roy',
+    author_email = 'kodelint@gmail.com',
     license = 'UNLICENSE',
     classifiers = [
         'Intended Audience :: Developers',
